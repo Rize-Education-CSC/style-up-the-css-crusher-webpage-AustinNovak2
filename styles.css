@@ -1,7 +1,5 @@
 
-.body-class {
-    background-color: rgb(40, 215, 194);
-  }
+.body-class {color:rgb(0, 255, 191)}
 .header-class{
     background-color: rgb(77, 77, 255); 
     color:white;
@@ -12,8 +10,8 @@
 }
 .title-class {color:lightblue}
 .text-class {color:rgb(77, 77, 255)}
-.image-class:hover{
-    border: 15px violet;
+.image-class{
+    border: px violet;
     border-radius: 10px;
 }
 .form-class {color:teal}
