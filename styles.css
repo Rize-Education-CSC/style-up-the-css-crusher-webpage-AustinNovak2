@@ -11,8 +11,8 @@
 .title-class {color:lightblue}
 .text-class {color:rgb(77, 77, 255)}
 .image-class{
-    border: 10px violet;
-    border-radius: 10px violet;
+    border: violet 10px;
+    border-radius: 10px;
 }
 .form-class {color:teal}
 .footer-class {color:blueviolet}
