@@ -1,5 +1,7 @@
 
-.body-class {color:rgb(0, 255, 191)}
+.body-class {
+    background-color: rgb(11, 30, 57);
+  }
 .header-class{
     background-color: rgb(77, 77, 255); 
     color:white;
