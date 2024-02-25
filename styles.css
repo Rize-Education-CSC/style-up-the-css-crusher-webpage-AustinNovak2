@@ -1,3 +1,4 @@
+
 .body-class {color:rgb(0, 255, 191)}
 .header-class{
     background-color: rgb(77, 77, 255); 
@@ -9,6 +10,9 @@
 }
 .title-class {color:lightblue}
 .text-class {color:rgb(77, 77, 255)}
-.image-class {color:violet}
+.image-class{
+    border: 5px violet;
+    border-radius: 10px;
+}
 .form-class {color:teal}
 .footer-class {color:blueviolet}
