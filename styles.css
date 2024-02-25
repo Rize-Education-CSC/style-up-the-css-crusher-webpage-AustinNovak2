@@ -15,4 +15,7 @@
     border-radius: 10px;
 }
 .form-class {color:teal}
-.footer-class {color:blueviolet}
+.footer-class {
+    background-color: blueviolet; 
+    color:white;
+}
