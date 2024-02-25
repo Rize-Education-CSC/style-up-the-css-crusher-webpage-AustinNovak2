@@ -1,6 +1,12 @@
 .body-class {color:rgb(0, 255, 191)}
-.header-class {color:rgb(77, 77, 255)}
-.nav-class {color:aqua}
+.header-class{
+    background-color: 77, 77, 255; 
+    color:white;
+}
+.nav-class{
+    background-color: aqua; 
+    font-weight: bold;
+}
 .title-class {color:lightblue}
 .text-class {color:rgb(77, 77, 255)}
 .image-class {color:violet}
